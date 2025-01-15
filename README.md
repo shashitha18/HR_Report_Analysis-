@@ -91,6 +91,15 @@ The HR Analytics Dashboard provides an interactive and comprehensive view of emp
 - **Onboarding Improvements**: 👨‍💼 Reduce early-stage attrition with effective onboarding processes.
 
 ---
+## Visuals 🗺️
+
+HR Analysis Dashboard Demo
+![HR Analysis Dashboard Demo](HR_Report_Analysis.png)
+
+HR Analysis Dashboard Video
+![HR_Analysis_Dashboard](HR_Report_Analysis.mp4)
+
+---
 
 ## How to Use the Dashboard
 1. **Filters**: 🔃 Use the department filters (Human Resources, Research & Development, Sales) to narrow down data.
@@ -108,7 +117,7 @@ The HR Analytics Dashboard provides an interactive and comprehensive view of emp
 ---
 
 ## Future Enhancements
-1. **Predictive Analytics**: 🧠 Integrate machine learning to predict future attrition trends.
+1. **Analysis dictive Analytics**: 🧠 Integrate machine learning to predict future attrition trends.
 2. **Real-Time Data**: 🕐 Implement real-time data updates for dynamic decision-making.
 3. **Drill-Down Capabilities**: 🔄 Allow detailed insights by department or location.
 4. **Employee Feedback Integration**: 💬 Correlate attrition with survey results for qualitative insights.
